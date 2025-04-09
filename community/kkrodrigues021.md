@@ -1,4 +1,4 @@
-# Olá, eu sou [Seu Nome]! 👋
+# Olá, eu me chamo Kaiky Rodrigues! 👋
 
 ## Sobre Mim
 Sou estudante de Análise e Desenvolvimento de Sistemas e estou apaixonado por tecnologia e programação. Estou sempre em busca de aprender novas habilidades e contribuir para projetos que façam a diferença.
@@ -16,8 +16,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas e estou apaixonado por t
   - ![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)
 
 ## Projetos
-- [Projeto 1](https://github.com/seu-usuario/projeto1): Descrição breve do projeto.
-- [Projeto 2](https://github.com/seu-usuario/projeto2): Descrição breve do projeto.
+- [Projeto 1](https://github.com/kkrodrigues021/projeto1): Ainda não possuo nenhum projeto.
 
 ## Contato
 - [LinkedIn](https://www.linkedin.com/in/kkrodrigues021/)
